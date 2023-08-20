@@ -1,0 +1,1 @@
+javascript:(function() {    var currentURL = encodeURIComponent(window.location.href.replace("https://", ""));    var newURL = "https://12ft.io/proxy?&q=" + currentURL;    window.open(newURL, "_blank");})();
