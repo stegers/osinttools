@@ -1,0 +1,1 @@
+javascript:(function() {    var currentURL = encodeURIComponent(window.location.href.replace("https://", ""));    var newURL = "https://archive.li/" + currentURL;    window.open(newURL, "_blank");})();
