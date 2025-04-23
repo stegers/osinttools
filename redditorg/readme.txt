@@ -1,0 +1,1 @@
+Bookmarklet installation: Copy entire java script code, create new bookmark in browser, paste code into URL field.
